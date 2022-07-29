@@ -1,4 +1,4 @@
-# Cart-Pushing-with-an-Autonomous-Robot
+# Autonomous-Robot-for-Cart-Pushing
 RBE 550 Project with an autonomous PR2 robot intended for cart pushing
 
 The ROS directory used a PR2 model and some scripts and launch files from a project from The Construct that can be fully downloaded from this link: https://app.theconstructsim.com/#/Rosject/544128. This directory is not needed to run our ROS directory.
